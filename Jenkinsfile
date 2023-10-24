@@ -34,7 +34,7 @@ pipeline
 
     	always
     	{
-    		emailext body: '', subject: 'maven build', to: 'sfaraz106@gmail.com'
+    		emailext body: '', subject: 'maven build', to: 'dashrathkal011@gmail.com'
     	}
 
     }
